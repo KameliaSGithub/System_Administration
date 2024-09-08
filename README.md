@@ -1,2 +1,6 @@
-# System_Administration
-These tasks are essential for managing a Linux-based system effectively. From user management to network configuration, software installation, security measures, and system monitoring, mastering these skills will enable you to maintain system integrity and performance efficiently.
+# System Administration
+
+These tasks are crucial for effectively managing a Debian-based system. Covering areas such as user management, network configuration, software installation, security protocols, and system monitoring.
+
+```bash
+git clone https://github.com/KameliaSGithub/System_Administration.git
